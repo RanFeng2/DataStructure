@@ -14,4 +14,6 @@ dfs\bfs：访问序列的不同顺序。可将树看成矩阵,dfs:纵向(列)访
 
 6——还原二叉树                          https://github.com/RanFeng2/DataStructure/blob/main/Tree/%E8%BF%98%E5%8E%9F%E4%BA%8C%E5%8F%89%E6%A0%91.md
 
-7——树状数组                            https://github.com/RanFeng2/DataStructure/blob/main/Tree/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84.md
+7——建树和不建树的区别                  https://github.com/RanFeng2/DataStructure/blob/main/Tree/%E5%BB%BA%E6%A0%91%E5%92%8C%E4%B8%8D%E5%BB%BA%E6%A0%91%E7%9A%84%E5%8C%BA%E5%88%AB.md
+
+8——树状数组                            https://github.com/RanFeng2/DataStructure/blob/main/Tree/%E6%A0%91%E7%8A%B6%E6%95%B0%E7%BB%84.md
