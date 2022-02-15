@@ -7,5 +7,7 @@ https://github.com/RanFeng2/DataStructure/blob/main/Graph/%E5%9B%BE%E7%9A%84%E9%
 **3——图的最短路**
 
 3.1 Dijkstra算法 https://github.com/RanFeng2/DataStructure/blob/main/Graph/%E5%9B%BE%E7%9A%84%E6%9C%80%E7%9F%AD%E8%B7%AF%E2%80%94%E2%80%94Dijkstra.md
+
+pair+堆优化 https://github.com/RanFeng2/DataStructure/blob/main/Graph/%E6%9C%80%E7%9F%AD%E8%B7%AFDijkstra%E7%AE%97%E6%B3%95%E2%80%94%E2%80%94pair%2B%E5%A0%86%E4%BC%98%E5%8C%96.md
   
 3.2 SPFA算法     https://github.com/RanFeng2/DataStructure/blob/main/Graph/%E5%9B%BE%E7%9A%84%E6%9C%80%E7%9F%AD%E8%B7%AF%E2%80%94%E2%80%94SPFA.md
